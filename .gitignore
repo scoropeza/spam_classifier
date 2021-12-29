@@ -1,4 +1,5 @@
-*.DS_Store
+.DS_Store
+enron_datasets/spam_dataset/
 
 ### All below are from GitHub's Python template
 # Byte-compiled / optimized / DLL files
