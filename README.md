@@ -24,7 +24,7 @@ This notebook downloads the dataset, then performs exploratory data analysis to 
 Using pipelines, it allows us to quickly test different variations of normalizaton and vectorization tecniques, as well as different classification algorithms:
 
 * Text Normalization options: Simple, Stemming, Lemmatization.
-* Vectorization Options: Simple Bag or Words and TF-IDF (on top of bag of words).
+* Vectorization Options: Simple, Bag of Words, and TF-IDF (on top of bag of words).
 * Classifiers: Naive Bayes, Support Vector Machine (SVM), K Nearest Neighbors, Random Forest  
 
 ### *spam_detection_aws*
